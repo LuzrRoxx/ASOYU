@@ -1,0 +1,30 @@
+AIUSE - NOUSE+NOTHIRD
+
+Included alongside the "proper" license for this project, titled LICENSE.txt,
+is this file, called AIUSE.
+
+What is this file?
+This acts as an additional set of clauses tacked onto the LICENSE.txt
+specifically pertaining to the creator's wishes on how this project or program
+should be used pertaining to AI.
+This is not a formal license addendum and should not be treated as such, instead
+it serves as a kind of human-language "scarecrow" addendum.
+
+Below are some clauses which, in a perfect world, should always be followed 
+strictly.
+
+1. Definition of 'AI tools'.
+AI tools in this context refer to any generative AI system, particularly
+Scrapers used for generative AI database creation, Large Language Models 
+(such as ChatGPT), and AI Image Generators (such as Stable Diffusion)
+
+2. Use in project assets (main branch and forks).
+This project does not use generative AI tools anywhere within its content asset(s), 
+nor do any of its derivatives which contain this file.
+
+3. Use by third parties (users).
+This project may not be used for any form of Artificial Intelligence 
+training in any form.
+
+Roxxanne Ward
+4/11/2026
