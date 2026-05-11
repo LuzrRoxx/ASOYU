@@ -1,0 +1,20 @@
+Character Details:
+/ people--------------------
+/\ Elves-----
+/\/ Teidaric
+/\/ Wessuric
+/\/ Half-Elves (Human)
+/\ Men-----
+/\/ Mainlanders
+/\ Orcs-----
+/\/ clan of Sk'war
+/\/ clan of Uk'war
+/\/ clan of Il'med
+/\/ Half-Orcs (Elve)
+/\ Livingwood-----
+/\ Krukow-----
+/\ Giants-----
+/\/ The Men of the Mountains
+/\/ Half-Giant (Human)
+/\/ Half-Giant (Elve)
+/\ Golric (Golem-Giants)-----
